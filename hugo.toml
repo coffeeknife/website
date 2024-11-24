@@ -8,6 +8,10 @@ theme = 'nightfall'
     name = "about"
     weight = 0
     url = "about"
+  [[menu.header]]
+    name = "tech"
+    weight = 1
+    url = "tech"
 
 [params]
 user = "coffeeknife"
