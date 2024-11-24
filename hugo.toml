@@ -1,0 +1,39 @@
+baseURL = 'https://coffeeknife.nekoweb.org/'
+languageCode = 'en-us'
+title = 'coffeeknife@nekoweb.org'
+theme = 'nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "about"
+
+[params]
+user = "coffeeknife"
+hostname = "nekoweb.org"
+sitedescription = "landing page for all my stuff"
+footerHtml = '<img src="/images/archlinux.png" alt="arch linux"><img src="/images/lesbian.png" alt="lesbian"><img src="/images/girlboy.png" alt="girlboy">'
+  [params.author]
+    name = "coffeeknife"  # Website and RSS feed author
+
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/coffeeknife"
+target = "_blank"
+icon = "fa-brands fa-github"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "bluesky"
+url = "https://coffeeknife.bsky.social/"
+icon = "fa-brands fa-bluesky"
+target = "_blank"
+aria = "Bluesky Profile"
+rel = "me"
