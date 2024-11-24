@@ -17,7 +17,7 @@ theme = 'nightfall'
 user = "coffeeknife"
 hostname = "nekoweb.org"
 sitedescription = "landing page for all my stuff"
-footerHtml = '<img src="/images/archlinux.png" alt="arch linux"><img src="/images/lesbian.png" alt="lesbian"><img src="/images/girlboy.png" alt="girlboy">'
+footerHtml = '<img src="/images/archlinux.png" alt="arch linux"><img src="/images/lesbian.png" alt="lesbian"><img src="/images/girlboy.png" alt="girlboy"><img src="/images/bald.gif" alt="90% bald"><img src="/images/coffee.gif" alt="coffee"><img src="/images/piano.gif" alt="piano"><img src="/images/yuri.gif" alt="yuri">'
   [params.author]
     name = "coffeeknife"  # Website and RSS feed author
 
